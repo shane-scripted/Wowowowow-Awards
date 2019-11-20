@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://media3.giphy.com/media/aRZ4vTsHnyW6A/giphy.gif");
+    color: gold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    border-style: dotted;
+}
+
+h2 {
+    font-size: 35px;
+    color: red;
+    font-family: 'Aldrich', sans-serif;
+}
+
+.bc {
+    color: dodgerblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    border: 10px double gold;
+}
+
+
+img {
+    width: 400px;
+    height: 400px;
+
+}
+
+.img {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 20px;
+}
